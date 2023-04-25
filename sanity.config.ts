@@ -8,7 +8,7 @@ const devOnlyPlugins = [getStartedPlugin()]
 
 export default defineConfig({
   name: 'default',
-  title: 'aqua-antelope',
+  title: 'autofibra',
 
   projectId: 'iww4btgk',
   dataset: 'production',
